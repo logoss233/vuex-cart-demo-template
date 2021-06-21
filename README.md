@@ -1,5 +1,10 @@
 # vuex-cart-demo-template
 
+node server.js 启动服务器
+
+npm run serve 启动客户端
+
+
 ## Project setup
 ```
 npm install
